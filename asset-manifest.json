@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gamebyreact/static/css/main.75d2517e.css",
+    "main.js": "/gamebyreact/static/js/main.635f2813.js",
+    "static/js/787.6a541d2d.chunk.js": "/gamebyreact/static/js/787.6a541d2d.chunk.js",
+    "index.html": "/gamebyreact/index.html",
+    "main.75d2517e.css.map": "/gamebyreact/static/css/main.75d2517e.css.map",
+    "main.635f2813.js.map": "/gamebyreact/static/js/main.635f2813.js.map",
+    "787.6a541d2d.chunk.js.map": "/gamebyreact/static/js/787.6a541d2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75d2517e.css",
+    "static/js/main.635f2813.js"
+  ]
+}
